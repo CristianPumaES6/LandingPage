@@ -1,0 +1,14 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "llevar al servidor",
+  "main": "index.js",
+  "dependencies": {
+    "express":"*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Angel Puma Villalva",
+  "license": "ISC"
+}
